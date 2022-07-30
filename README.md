@@ -1,2 +1,4 @@
 # Site-PipaZen
-Site de uma pousada
+Site da pousada Pipa Zen localizada em Pipa
+
+Home
